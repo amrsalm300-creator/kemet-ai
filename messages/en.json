@@ -1,0 +1,468 @@
+{
+  "Header": {
+    "home": "Home",
+    "exclusiveOffers": "Exclusive Offers",
+    "landmarks": "Landmarks",
+    "explore": "Explore",
+    "map": "Map",
+    "hotels": "Hotels",
+    "trips": "Trips",
+    "community": "Community",
+    "blog": "Blog"
+  },
+  "Footer": {
+    "aboutTitle": "Kemet AI",
+    "aboutText": "A pioneering AI-powered tourism platform in Egypt, bridging the heritage of ancestors with cutting-edge future technologies for an unforgettable travel experience.",
+    "poweredBy": "Developed & Powered by",
+    "companyName": "Unique",
+    "quickLinks": "Quick Links",
+    "termsOfUse": "Terms of Use",
+    "privacyPolicy": "Privacy Policy",
+    "faq": "Frequently Asked Questions",
+    "contactUs": "Contact Us",
+    "aboutPlatform": "About Platform",
+    "destinationsTitle": "Popular Destinations",
+    "destinations": {
+      "luxorTrip": "Luxor Trips",
+      "siwaAdventures": "Siwa Adventures",
+      "dahabBeaches": "Dahab Beaches",
+      "marsaAlam": "Marsa Alam",
+      "nileCruises": "Nile Cruises"
+    },
+    "contactTitle": "Contact Us",
+    "email": "info@kemetai.com",
+    "phone": "+20 123 456 7890",
+    "location": "Cairo, Egypt",
+    "rights": "All rights reserved © 2026 Kemet AI."
+  },
+  "InteractiveMap": {
+    "badge": "KEMET INTERACTIVE MAP",
+    "title": "Interactive Map for Egyptian Destinations",
+    "subtitle": "Explore famous tourist and archaeological landmarks via high-resolution satellite imagery with AI analysis.",
+    "sidebarTitle": "Explore Destinations",
+    "loading": "Loading Kemet AI Map... 𓆣",
+    "calculating": "Calculating...",
+    "calculateDistance": "📍 Calculate Distance From My Location",
+    "distanceResult": "Distance from you: {distance} km",
+    "directions": "Directions & Navigation",
+    "viewPlan": "View Itinerary",
+    "dragToPan": "Drag to pan map",
+    "popup": {
+      "era": "🏛️ Historical Era:",
+      "category": "🏄 Tourism Type:",
+      "location": "📍 Location:"
+    },
+    "destinations": {
+      "pyramids": {
+        "name": "Giza Pyramids",
+        "city": "Giza",
+        "location": "Giza Plateau, Giza Governorate",
+        "era": "4th Dynasty (Old Kingdom)",
+        "category": "Archaeological & Cultural Tourism",
+        "description": "One of the Seven Wonders of the Ancient World and a testament to ancient Egyptian engineering genius."
+      },
+      "luxor_karnak": {
+        "name": "Karnak Temple",
+        "city": "Luxor",
+        "location": "East Bank, Luxor City",
+        "era": "New Kingdom (1550 - 1077 BC)",
+        "category": "Archaeological Tourism",
+        "description": "A stunning pharaonic temple complex considered the largest house of worship in the ancient world."
+      },
+      "abu_simbel": {
+        "name": "Abu Simbel Temples",
+        "city": "Aswan",
+        "location": "South of Aswan near the Sudanese border",
+        "era": "Era of Ramses II (New Kingdom)",
+        "category": "Global Tourism",
+        "description": "Two architectural masterpieces of King Ramses II and Queen Nefertari carved directly into the mountain."
+      },
+      "siwa": {
+        "name": "Siwa Oasis & Salt Lakes",
+        "city": "Matrouh",
+        "location": "Western Desert, near the Libyan border",
+        "era": "Late Pharaonic / Greco-Roman Era",
+        "category": "Eco & Therapeutic Tourism",
+        "description": "A magical oasis featuring natural water springs and therapeutic crystal salt lakes."
+      },
+      "dahab_bluehole": {
+        "name": "Blue Hole",
+        "city": "Dahab",
+        "location": "Red Sea Coast, South Sinai",
+        "era": "Modern Era (Natural Reserve)",
+        "category": "Beach & Marine Tourism",
+        "description": "One of the world's most famous diving spots featuring stunning coral reefs and turquoise depths."
+      },
+      "philae": {
+        "name": "Philae Temple",
+        "city": "Aswan",
+        "location": "Agilkia Island, Lake Nasser",
+        "era": "Ptolemaic and Roman Era",
+        "category": "Nile Archaeological Tourism",
+        "description": "The enchanting island sanctuary dedicated to the goddess Isis amidst the waters of the Nile."
+      },
+      "nmec": {
+        "name": "National Museum of Egyptian Civilization",
+        "city": "Cairo",
+        "location": "Fustat, Old Cairo",
+        "era": "Multiple (From Ancient to Modern)",
+        "category": "Museum & Cultural Tourism",
+        "description": "Houses the royal mummies and exclusive collections expressing Egypt's history across the ages."
+      },
+      "khan_el_khalili": {
+        "name": "Khan el-Khalili & Al-Muizz",
+        "city": "Cairo",
+        "location": "Al-Muizz Street, Historic Cairo",
+        "era": "Mamluk and Fatimid Era",
+        "category": "Heritage & Islamic Tourism",
+        "description": "The beating heart of historic Islamic Cairo, filled with traditional crafts and heritage cafes."
+      },
+      "ras_mohamed": {
+        "name": "Ras Mohamed National Park",
+        "city": "Sharm El Sheikh",
+        "location": "Confluence of Gulf of Aqaba and Suez",
+        "era": "Global Natural Reserve",
+        "category": "Ecotourism & Diving",
+        "description": "Egypt's first national park, renowned for coral reefs and breathtaking biodiversity."
+      },
+      "white_desert": {
+        "name": "White Desert",
+        "city": "New Valley",
+        "location": "Farafra Oasis, Western Desert",
+        "era": "Geological formations over thousands of years",
+        "category": "Adventure & Safari Tourism",
+        "description": "Unique white chalk rock formations making you feel as if you are walking on the moon."
+      },
+      "st_catherine": {
+        "name": "Saint Catherine's Monastery",
+        "city": "South Sinai",
+        "location": "Saint Catherine City, below Mount Sinai",
+        "era": "Byzantine Empire (6th Century AD)",
+        "category": "Religious & Historical Tourism",
+        "description": "The oldest continuously inhabited monastery in the world, housing rare manuscripts and Byzantine icons."
+      },
+      "vally_of_kings": {
+        "name": "Valley of the Kings",
+        "city": "Luxor",
+        "location": "West Bank, Luxor",
+        "era": "New Kingdom (18th-20th Dynasties)",
+        "category": "Archaeological Tourism",
+        "description": "Tombs of pharaonic kings, most notably the tombs of Tutankhamun and Hatshepsut."
+      },
+      "qaitbay": {
+        "name": "Citadel of Qaitbay",
+        "city": "Alexandria",
+        "location": "Al-Gomrok District, ancient Pharos Island",
+        "era": "Mamluk Era (15th Century)",
+        "category": "Historical & Coastal Tourism",
+        "description": "A robust defensive fortress built on the Mediterranean coast on the site of the ancient Lighthouse of Alexandria."
+      },
+      "alex_library": {
+        "name": "Bibliotheca Alexandrina",
+        "city": "Alexandria",
+        "location": "Shatby, Alexandria Corniche",
+        "era": "Modern Era (Revival of Ptolemaic Legacy)",
+        "category": "Cultural & Knowledge Tourism",
+        "description": "A modern beacon of culture and science shaped like a sun disc rising from the sea."
+      },
+      "giftun_island": {
+        "name": "Giftun Island (Protected)",
+        "city": "Hurghada",
+        "location": "Off the coast of Hurghada",
+        "era": "Natural Reserve",
+        "category": "Beach & Marine Tourism",
+        "description": "Pristine islands featuring stunning white sands and crystal turquoise waters."
+      },
+      "dendera": {
+        "name": "Dendera Temple",
+        "city": "Qena",
+        "location": "Dendera City, West of the Nile",
+        "era": "Greco-Roman Era",
+        "category": "Archaeological Tourism",
+        "description": "One of the best-preserved temples in Egypt with exquisite details, colors, and astronomical secrets."
+      },
+      "saqqara": {
+        "name": "Pyramid of Djoser (Step Pyramid)",
+        "city": "Giza",
+        "location": "Saqqara, Giza Governorate",
+        "era": "3rd Dynasty (Old Kingdom)",
+        "category": "Archaeological Tourism",
+        "description": "History's first massive stone building and the precursor to pyramid construction."
+      },
+      "kom_ombo": {
+        "name": "Kom Ombo Temple",
+        "city": "Aswan",
+        "location": "Kom Ombo Center, Nile banks",
+        "era": "Ptolemaic Era",
+        "category": "Nile Archaeological Tourism",
+        "description": "A unique double temple on the banks of the Nile dedicated to the deities Sobek and Horus."
+      },
+      "wadi_el_hitan": {
+        "name": "Wadi El Hitan (Whale Valley)",
+        "city": "Fayoum",
+        "location": "Wadi El Rayan Protected Area, Fayoum",
+        "era": "Eocene Epoch (40 million years ago)",
+        "category": "Eco & Geological Tourism",
+        "description": "A UNESCO World Heritage site containing rare fossils of early extinct primitive whales."
+      },
+      "marsa_alam": {
+        "name": "Hankorab Beach (The Meteor)",
+        "city": "Marsa Alam",
+        "location": "South of Marsa Alam, Wadi El Gemal National Park",
+        "era": "Modern Era (Natural)",
+        "category": "Beach & Relaxation Tourism",
+        "description": "Enchanting beaches and a natural lagoon resembling the Maldives in purity and marine life."
+      }
+    }
+  },
+  "Hero": {
+    "badge": "Discover the Cradle of Civilization 𓆣",
+    "title": "Live Egypt's Timeless Magic Across Ages",
+    "subtitle": "Embark on a journey through pharaonic temples, pristine Red Sea beaches, and vibrant cultural landmarks with smart guidance.",
+    "exploreBtn": "Explore Destinations",
+    "planBtn": "Plan Your Trip",
+    "sectionTitle": "Key Services & Features",
+    "explore": "Explore",
+    "card1_title": "Interactive Egypt Map",
+    "card1_desc": "Browse top pharaonic monuments and secrets through an interactive smart map.",
+    "card2_title": "Flights & Hotels",
+    "card2_desc": "Book the best offers and trips through seamless API integration.",
+    "card3_title": "Local Tour Packages",
+    "card3_desc": "Tour packages custom-designed to suit all tastes and budgets.",
+    "card4_title": "AI Trip Planner",
+    "card4_desc": "Let the smart assistant design a comprehensive minute-by-minute itinerary for you.",
+    "news": {
+      "1": "Cairo - Luxor flights dropped by 12% now",
+      "2": "New Siwa Oasis offer (4 days) currently available for 2400 EGP",
+      "3": "AI predicts Aswan hotel prices to drop soon",
+      "4": "Exclusive discounts on Giza Pyramids and Grand Museum tours",
+      "5": "Kemet 3D Interactive Maps launched in 7 languages",
+      "6": "Nile cruise bookings are seeing high demand this week",
+      "7": "AI Smart Trip Planner finishes organizing 500+ custom trips today"
+    },
+    "stats": {
+      "temples": "Archaeological Sites",
+      "beaches": "Red Sea Coastlines",
+      "years": "Years of History"
+    }
+  },
+  "BudgetCalculator": {
+    "title": "Smart Trip Budget Calculator",
+    "sectionTitle": "Budget & Trip Calculator",
+    "sectionSubtitle": "Accurately calculate your travel costs in Egypt based on your trip style and duration.",
+    "subtitle": "Accurately calculate your travel costs in Egypt based on your trip style and duration.",
+    "destinationLabel": "Choose Tourism Destination",
+    "days": "Number of Days",
+    "travelers": "Number of Travelers",
+    "style": "Travel Style",
+    "styles": {
+      "budget": "Budget / Backpacker",
+      "comfort": "Comfortable / Mid-range",
+      "luxury": "Luxury / VIP"
+    },
+    "destinations": {
+      "luxor": "Luxor",
+      "cairo": "Cairo",
+      "aswan": "Aswan",
+      "sharm": "Sharm El Sheikh",
+      "hurghada": "Hurghada",
+      "alex": "Alexandria",
+      "siwa": "Siwa",
+      "dahab": "Dahab",
+      "redsea": "Red Sea"
+    },
+    "totalEstimate": "Estimated Cost",
+    "currency": "EGP / USD",
+    "calculate": "Calculate Budget"
+  },
+  "DestinationsSection": {
+    "badge": "Enchanting Destinations in History and Nature's Sanctuary",
+    "sectionTitle": "Explore Egypt's Most Beautiful Tourist Destinations",
+    "sectionSubtitle": "An unforgettable journey through magnificent monuments, stunning beaches, and magical oases",
+    "title": "Featured Destinations",
+    "subtitle": "Carefully selected locations across Egypt's most mesmerizing regions.",
+    "exploreButton": "Explore Trip Details",
+    "exploreMore": "Explore Details",
+    "tabs": {
+      "all": "All Destinations",
+      "history": "History & Culture",
+      "beach": "Beaches & Red Sea",
+      "adventure": "Safari & Adventure"
+    },
+    "items": {
+      "cairoGiza": {
+        "title": "Cairo & Giza - Cradle of Civilization",
+        "englishTitle": "Cairo & Giza",
+        "categoryLabel": "History & Civilization",
+        "description": "Discover the timeless Giza Pyramids and the rich history nestled in the alleys of Islamic Cairo and the Grand Egyptian Museum.",
+        "bestTime": "Best time: October to April",
+        "highlights": [
+          "Giza Pyramids and Sphinx",
+          "Grand Egyptian Museum",
+          "Khan el-Khalili and Al-Muizz Street"
+        ]
+      },
+      "luxorAswan": {
+        "title": "Luxor & Aswan - Capital of History",
+        "englishTitle": "Luxor & Aswan",
+        "categoryLabel": "History & Civilization",
+        "description": "An open-air museum holding a third of the world's monuments, offering a magical Nile cruise between eternal pharaonic temples and Nubian charm.",
+        "bestTime": "Best time: November to February",
+        "highlights": [
+          "Karnak Temple",
+          "Valley of the Kings and Queens",
+          "Kitchener's Island in Aswan"
+        ]
+      },
+      "redSea": {
+        "title": "Red Sea & Hurghada",
+        "englishTitle": "Red Sea & Hurghada",
+        "categoryLabel": "Beaches & Resorts",
+        "description": "Pristine turquoise waters and unique coral reefs, featuring top diving spots and luxury marine sports.",
+        "bestTime": "Best time: Year-round (May - September for summer)",
+        "highlights": [
+          "Marine Safari Trips",
+          "Colorful Coral Reefs",
+          "Luxury Resorts"
+        ]
+      },
+      "sinai": {
+        "title": "South Sinai, Dahab & Sharm El Sheikh",
+        "englishTitle": "South Sinai",
+        "categoryLabel": "Beaches & Adventure",
+        "description": "The magic of majestic Sinai mountains combined with the serene beaches of Dahab and international resorts of Sharm El Sheikh.",
+        "bestTime": "Best time: September to May",
+        "highlights": [
+          "Climbing Mount Sinai",
+          "The Blue Hole in Dahab",
+          "Ras Mohamed National Park"
+        ]
+      },
+      "siwa": {
+        "title": "Siwa Oasis & Western Desert",
+        "englishTitle": "Siwa Oasis",
+        "categoryLabel": "Safari & Adventure",
+        "description": "The paradise of the Western Desert, natural sulfur springs, and sprawling palm trees amidst golden sands.",
+        "bestTime": "Best time: October to March",
+        "highlights": [
+          "Natural Sulfur Springs",
+          "Enchanting Salt Lakes",
+          "Great Sand Sea Safari"
+        ]
+      },
+      "alex": {
+        "title": "Alexandria & North Coast",
+        "englishTitle": "Alexandria & North Coast",
+        "categoryLabel": "Beaches & Heritage",
+        "description": "The bride of the Mediterranean, blending Greco-Roman historical elegance with stunning coastal beaches.",
+        "bestTime": "Best time: June to September",
+        "highlights": [
+          "Bibliotheca Alexandrina",
+          "Citadel of Qaitbay",
+          "Alexandria Corniche"
+        ]
+      }
+    }
+  },
+  "SmartCalculator": {
+    "title": "Smart Trip Calculator",
+    "subtitle": "Calculate your detailed trip cost with high precision",
+    "destinationLabel": "Destination",
+    "budgetLabel": "Expected Budget",
+    "currency": "EGP",
+    "resultsTitle": "Estimation Results",
+    "flightLabel": "Flight",
+    "flight": "Flight Ticket",
+    "hotelLabel": "Hotel",
+    "hotel": "Hotel Accommodation",
+    "totalEstimated": "Total Estimated Cost",
+    "destinations": {
+      "cairo": "Cairo",
+      "luxor": "Luxor",
+      "aswan": "Aswan",
+      "sharm": "Sharm El Sheikh",
+      "hurghada": "Hurghada",
+      "alex": "Alexandria",
+      "siwa": "Siwa",
+      "dahab": "Dahab",
+      "redsea": "Red Sea"
+    }
+  },
+  "TourismFilmstrip": {
+    "mainTitle": "Visual Journey",
+    "mainTitleHighlight": "Through Egypt's Magic",
+    "subtitle": "Immersive video clips capturing the spirit of the Nile, the Red Sea, and historical landmarks.",
+    "detailsButton": "Details",
+    "closeButton": "Close",
+    "platformName": "Kemet AI - Smart Egyptian Tourism Platform",
+    "goToLandmarkButton": "Go to Landmark Details",
+    "videos": {
+      "video1": "Timeless Giza Pyramids",
+      "video2": "Magic of Pharaonic Temples in Luxor",
+      "video3": "Masterpieces of the Grand Egyptian Museum",
+      "video4": "Beauty of Turquoise Red Sea Beaches",
+      "video5": "Siwa Oasis and Natural Springs",
+      "video6": "White Desert Safari",
+      "video7": "Sharm El Sheikh and South Sinai",
+      "video8": "Alexandria, Bride of the Mediterranean",
+      "video9": "Magical Nile Cruise Between Luxor and Aswan",
+      "video10": "Rich History of Qaitbay Citadel"
+    }
+  },
+  "TourismTypes": {
+    "sectionTitle": "Types of",
+    "sectionHighlight": "Tourism",
+    "sectionSubtitle": "From ancient history to modern relaxation, discover what fits your passion.",
+    "title": "Diverse Tourism Experiences",
+    "subtitle": "From ancient history to modern relaxation, discover what fits your passion.",
+    "exploreCategory": "Explore Category",
+    "badge": "Featured",
+    "ctaButton": "Book Your Trip",
+    "items": {
+      "cultural": {
+        "title": "Cultural Tourism",
+        "description": "Explore ancient ruins and rich history."
+      },
+      "beach": {
+        "title": "Beach Tourism",
+        "description": "Enjoy charming beaches and crystal-clear waters."
+      },
+      "adventure": {
+        "title": "Adventure Tourism",
+        "description": "Live an experience full of excitement and thrills."
+      },
+      "diving": {
+        "title": "Diving Tourism",
+        "description": "Discover the marine world and coral reefs."
+      },
+      "medical": {
+        "title": "Medical Tourism",
+        "description": "Healing and premium natural treatments."
+      },
+      "eco": {
+        "title": "Ecotourism",
+        "description": "Enjoy protected nature and fresh air."
+      },
+      "safari": {
+        "title": "Safari Tourism",
+        "description": "Desert exploration and adventure trips."
+      },
+      "religious": {
+        "title": "Religious Tourism",
+        "description": "Visit sacred and historical landmarks."
+      },
+      "nile": {
+        "title": "Nile Tourism",
+        "description": "Magical Nile cruises in the heart of the river."
+      },
+      "conference": {
+        "title": "Conference Tourism",
+        "description": "Comprehensive setups for conferences and events."
+      }
+    }
+  },
+  "Offers": {
+    "title": "Exclusive Offers & Unbeatable Deals",
+    "subtitle": "Discover the best packages and enjoy exceptional deals for your next journey."
+  }
+}

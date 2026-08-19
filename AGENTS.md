@@ -1,5 +1,13 @@
-<!-- BEGIN:nextjs-agent-rules -->
-# This is NOT the Next.js you know
+# Kemet AI - Agents Specification
 
-This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
-<!-- END:nextjs-agent-rules -->
+This file documents the AI agents, web scrapers, and prediction models powering the Kemet AI tourism platform.
+
+## 1. Scraping & Data Collection Agent
+* **Purpose:** Scrape tourism data, hotel prices, and historical site updates within Egypt.
+* **Target Stack:** Integration with Next.js API routes / Route Handlers.
+
+## 2. Price Prediction Agent
+* **Purpose:** Predict seasonal price fluctuations for flights and accommodations.
+
+## 3. Multi-language Translation & Guide Agent
+* **Purpose:** Provide multilingual support and contextual historical information for tourists.

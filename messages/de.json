@@ -1,0 +1,456 @@
+{
+  "Header": {
+    "home": "Startseite",
+    "exclusiveOffers": "Exklusive Angebote",
+    "landmarks": "Sehenswürdigkeiten",
+    "explore": "Entdecken",
+    "map": "Karte",
+    "hotels": "Hotels",
+    "trips": "Reisen",
+    "community": "Community",
+    "blog": "Blog"
+  },
+  "Footer": {
+    "aboutTitle": "Über die Plattform",
+    "aboutText": "Kemet AI ist eine intelligente Tourismusplattform, die speziell entwickelt wurde, um Ägyptens historische und natürliche Magie mit modernster KI-Technologie zu erkunden.",
+    "description": "Kemet AI ist eine intelligente Tourismusplattform, die speziell entwickelt wurde, um Ägyptens historische und natürliche Magie mit modernster KI-Technologie zu erkunden.",
+    "poweredBy": "Entwickelt von",
+    "companyName": "amr salem",
+    "quickLinks": "Schnelle Links",
+    "termsOfUse": "Nutzungsbedingungen",
+    "terms": "Nutzungsbedingungen",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "privacy": "Datenschutz",
+    "faq": "Häufig gestellte Fragen",
+    "contactUs": "Kontakt",
+    "aboutPlatform": "Über die Plattform",
+    "destinationsTitle": "Top-Reiseziele",
+    "popularDestinations": "Beliebte Reiseziele",
+    "luxorTourism": "Luxor-Touren",
+    "siwaAdventures": "Siwa-Abenteuer",
+    "dahabBeaches": "Dahab-Strände",
+    "marsaAlam": "Marsa Alam",
+    "nileCruises": "Nilkreuzfahrten",
+    "cairoEgypt": "Kairo, Ägypten",
+    "destinations": {
+      "luxorTrip": "Luxor-Touren",
+      "siwaAdventures": "Siwa-Abenteuer",
+      "dahabBeaches": "Dahab-Strände",
+      "marsaAlam": "Marsa Alam",
+      "nileCruises": "Nilkreuzfahrten"
+    },
+    "contactTitle": "Kontaktieren Sie uns",
+    "email": "info@kemetai.com",
+    "phone": "+20 123 456 7890",
+    "location": "Kairo, Ägypten",
+    "rights": "Alle Rechte vorbehalten © 2026 Kemet AI."
+  },
+  "Hero": {
+    "badge": "Entdecken Sie die Wiege der Zivilisation 𓆣",
+    "title": "Kemet AI: Wo antikes Erbe auf zukunftsweisende Intelligenz trifft",
+    "subtitle": "Die nächste Generation smarter Flugangebote, Hotels und maßgeschneiderter Reisen in Ägypten",
+    "exploreBtn": "Reiseziele erkunden",
+    "planBtn": "Reise planen",
+    "searchPlaceholder": "Suchen Sie nach Flügen, Hotels und Routen...",
+    "searchButton": "Suchen",
+    "sectionTitle": "Kemet Entdeckungsportal",
+    "explore": "Bereich erkunden",
+    "card1_title": "Interaktive Ägypten-Karte",
+    "card1_desc": "Immersive interaktive Ebenen, um historische Sehenswürdigkeiten präzise zu erkunden.",
+    "card2_title": "Flüge & Hotels (APIs)",
+    "card2_desc": "Echtzeit-Vergleich von Flug- und Unterkunftspreisen, unterstützt durch moderne Technologie.",
+    "card3_title": "Lokale Reiseangebote",
+    "card3_desc": "Kuratierte Reisepakete und exklusive Angebote, perfekt auf Ihre Vorlieben abgestimmt.",
+    "card4_title": "KI-Reiseplaner",
+    "card4_desc": "Ihr intelligenter Assistent, um Ihre gesamte Reiseroute in Sekundenschnelle zu erstellen.",
+    "news": {
+      "1": "Flugpreise zwischen Kairo und Luxor jetzt um 12% gesunken",
+      "2": "Neues Siwa-Oasen-Angebot (4 Tage) jetzt für 2400 EGP verfügbar",
+      "3": "KI prognostiziert baldige Preissenkungen für Aswan-Hotels",
+      "4": "Exklusive Rabatte auf Gizeh-Pyramiden und Großes Museum Touren",
+      "5": "Einführung interaktiver 3D-Kemet-Karten in 7 Sprachen",
+      "6": "Nilkreuzfahrten verzeichnen diese Woche hohe Nachfrage",
+      "7": "Intelligenter Reiseplaner hat heute über 500 maßgeschneiderte Reisen organisiert"
+    },
+    "stats": {
+      "temples": "Antike Stätten",
+      "beaches": "Rotes-Meer-Küsten",
+      "years": "Jahre Geschichte"
+    }
+  },
+  "BudgetCalculator": {
+    "title": "Intelligenter Reisebudget-Rechner",
+    "sectionTitle": "Budget- und Rechner",
+    "sectionSubtitle": "Berechnen Sie Ihre Reisekosten in Ägypten präzise basierend auf Reisestil und Dauer.",
+    "subtitle": "Berechnen Sie Ihre Reisekosten in Ägypten präzise basierend auf Reisestil und Dauer.",
+    "destinationLabel": "Reiseziel wählen",
+    "days": "Anzahl der Tage",
+    "travelers": "Anzahl der Reisenden",
+    "style": "Reisestil",
+    "styles": {
+      "budget": "Budget / Backpacker",
+      "comfort": "Komfort / Mittelklasse",
+      "luxury": "Luxus / VIP"
+    },
+    "destinations": {
+      "luxor": "Luxor",
+      "cairo": "Kairo",
+      "aswan": "Assuan",
+      "sharm": "Scharm El-Scheich",
+      "hurghada": "Hurghada",
+      "alex": "Alexandria",
+      "siwa": "Siwa",
+      "dahab": "Dahab",
+      "redsea": "Rotes Meer"
+    },
+    "totalEstimate": "Geschätzte Gesamtkosten",
+    "currency": "EGP / USD",
+    "calculate": "Budget berechnen"
+  },
+  "DestinationsSection": {
+    "badge": "Intelligenter Ägypten-Explorer",
+    "sectionTitle": "Beliebte Reiseziele & Regionen",
+    "sectionSubtitle": "Wählen Sie Ihr Lieblingsziel und entdecken Sie Denkmäler, interaktive Karten und touristische Dienstleistungen.",
+    "title": "Beliebte Reiseziele",
+    "subtitle": "Sorgfältig ausgewählte Orte in Ägyptens faszinierenden Regionen.",
+    "exploreButton": "Sehenswürdigkeiten & Karten erkunden",
+    "exploreMore": "Details erkunden",
+    "tabs": {
+      "all": "Alle Regionen",
+      "history": "Geschichte & Antike 🏛️",
+      "beach": "Strand & Freizeit 🏖️",
+      "adventure": "Oasen & Abenteuer 🏜️"
+    },
+    "items": {
+      "cairoGiza": {
+        "title": "Kairo & Gizeh",
+        "englishTitle": "Cairo & Giza",
+        "categoryLabel": "Geschichte & Antike",
+        "description": "Die Pyramiden von Gizeh, das Große Ägyptische Museum und das historische Kairo voller Erbe.",
+        "bestTime": "Oktober - April",
+        "highlights": ["Pyramiden", "Großes Museum", "Chan el-Chalili"]
+      },
+      "luxorAswan": {
+        "title": "Luxor & Assuan",
+        "englishTitle": "Luxor & Aswan",
+        "categoryLabel": "Geschichte & Antike",
+        "description": "Ein Drittel der Weltmonumente, Karnak-Tempel, Tal der Könige und der Zauber des Nils.",
+        "bestTime": "November - März",
+        "highlights": ["Tal der Könige", "Karnak-Tempel", "West-Suhail-Dorf"]
+      },
+      "redSea": {
+        "title": "Rotes Meer & Hurghada",
+        "englishTitle": "Red Sea & Hurghada",
+        "categoryLabel": "Strand & Freizeit",
+        "description": "Die faszinierende Welt der Korallenriffe, Tauchen und weltweite Resorts in El Gouna.",
+        "bestTime": "Ganzjährig",
+        "highlights": ["Mahmya-Insel", "El Gouna", "Delfinhaus"]
+      },
+      "sinai": {
+        "title": "Süd-Sinai (Scharm & Dahab)",
+        "englishTitle": "South Sinai",
+        "categoryLabel": "Strand & Freizeit",
+        "description": "Naturzauber in Scharm El-Scheich, Abenteuer in Dahab und Meditation am Katharinenkloster.",
+        "bestTime": "September - Mai",
+        "highlights": ["Ras Mohammed", "Blue Hole", "St. Katharina"]
+      },
+      "siwa": {
+        "title": "Siwa & Westliche Wüste",
+        "englishTitle": "Siwa & Western Desert",
+        "categoryLabel": "Oasen & Abenteuer",
+        "description": "Wundersame Salzseen, Safaris, der Totenberg und der Zauber der Weißen Wüste.",
+        "bestTime": "Oktober - März",
+        "highlights": ["Salzseen", "Kleopatra-Quelle", "Weiße Wüste"]
+      },
+      "alex": {
+        "title": "Alexandria & Nordküste",
+        "englishTitle": "Alexandria & North Coast",
+        "categoryLabel": "Strand & Freizeit",
+        "description": "Qaitbay-Zitadelle, die imposante Bibliothek von Alexandria und türkisfarbene Strände.",
+        "bestTime": "Mai - September",
+        "highlights": ["Bibliothek", "New Alamein", "Qaitbay-Zitadelle"]
+      }
+    }
+  },
+  "SmartCalculator": {
+    "title": "Intelligenter Rechner",
+    "subtitle": "Berechnen Sie Ihre Reisekosten einfach und präzise",
+    "destinationLabel": "Bevorzugtes Reiseziel",
+    "budgetLabel": "Erwartetes Budget",
+    "currency": "EGP",
+    "resultsTitle": "Schätzungsergebnisse",
+    "flightLabel": "Flug",
+    "flight": "Flugticket",
+    "hotelLabel": "Hotel",
+    "hotel": "Hotelunterkunft",
+    "totalEstimated": "Geschätzte Gesamtkosten",
+    "destinations": {
+      "cairo": "Kairo",
+      "luxor": "Luxor",
+      "aswan": "Assuan",
+      "sharm": "Scharm El-Scheich",
+      "hurghada": "Hurghada",
+      "alex": "Alexandria",
+      "siwa": "Siwa",
+      "dahab": "Dahab",
+      "redsea": "Rotes Meer"
+    }
+  },
+  "TourismFilmstrip": {
+    "mainTitle": "Visuelle Reise",
+    "mainTitleHighlight": "durch Ägyptens Magie",
+    "subtitle": "Immersive Videos, die den Geist des Nils, des Roten Meeres und historischer Stätten einfangen.",
+    "detailsButton": "Details",
+    "closeButton": "Schließen",
+    "platformName": "Kemet AI - Ägyptens intelligente Tourismusplattform",
+    "goToLandmarkButton": "Zu den Details der Sehenswürdigkeit",
+    "videos": {
+      "video1": "Die ewigen Pyramiden von Gizeh",
+      "video2": "Der Zauber der pharaonischen Tempel in Luxor",
+      "video3": "Die Meisterwerke des Großen Ägyptischen Museums",
+      "video4": "Die Schönheit der türkisfarbenen Strände am Roten Meer",
+      "video5": "Siwa-Oase und natürliche Quellseen",
+      "video6": "Weiße-Wüste-Safari",
+      "video7": "Scharm El-Scheich und Süd-Sinai",
+      "video8": "Alexandria, die Braut des Mittelmeers",
+      "video9": "Eine zauberhafte Nilkreuzfahrt zwischen Luxor und Assuan",
+      "video10": "Die reiche Geschichte der Qaitbay-Zitadelle"
+    }
+  },
+  "TourismTypes": {
+    "sectionBadge": "Ägyptischer Tourismus",
+    "sectionTitle": "Entdecken Sie die Arten des Tourismus",
+    "sectionSubtitle": "Wählen Sie aus einer Vielzahl einzigartiger Erlebnisse, die auf Ihre Interessen zugeschnitten sind",
+    "title": "Verschiedene Tourismuserlebnisse",
+    "subtitle": "Von reicher Geschichte bis zu moderner Entspannung, entdecken Sie, was Ihre Leidenschaft weckt.",
+    "exploreCategory": "Kategorie erkunden",
+    "badge": "Empfohlen",
+    "ctaButton": "Reise buchen",
+    "items": {
+      "cultural": {
+        "title": "Kultureller & Historischer Tourismus",
+        "description": "Erkunden Sie antike Tempel, Pyramiden und historische Stätten aus pharaonischer, islamischer und koptischer Zeit."
+      },
+      "beach": {
+        "title": "Strand- & Freizeittourismus",
+        "description": "Genießen Sie das kristallklare Wasser und Korallenriffe im Roten Meer sowie luxuriöse Resorts."
+      },
+      "adventure": {
+        "title": "Wüsten- & Abenteuertourismus",
+        "description": "Erleben Sie aufregende Safaris, Oasen und Wüstencamping unter dem Sternenhimmel."
+      },
+      "diving": {
+        "title": "Tauchtourismus",
+        "description": "Entdecken Sie die Unterwasserwelt und farbenfrohe Korallenriffe."
+      },
+      "medical": {
+        "title": "Medizin- & Wellnesstourismus",
+        "description": "Hervorragende Heilung und natürliche Behandlungen."
+      },
+      "eco": {
+        "title": "Ökotourismus",
+        "description": "Genießen Sie geschützte Natur und frische Luft."
+      },
+      "safari": {
+        "title": "Safaritourismus",
+        "description": "Wüstenexplorations- und Abenteuerreisen."
+      },
+      "religious": {
+        "title": "Religiöser Tourismus",
+        "description": "Besuch heiliger und historischer Stätten."
+      },
+      "nile": {
+        "title": "Niltourismus",
+        "description": "Bezaubernde Nilkreuzfahrten im Herzen des Nils."
+      },
+      "conference": {
+        "title": "Konferenztourismus",
+        "description": "Integrierte Einrichtungen für Konferenzen und Veranstaltungen."
+      }
+    }
+  },
+  "InteractiveMap": {
+    "badge": "Kemet Interaktive Karte",
+    "title": "Interaktive Karte ägyptischer Reiseziele",
+    "subtitle": "Entdecken Sie berühmte touristische und archäologische Stätten über hochauflösende Satellitenbilder mit KI-Analyse.",
+    "sidebarTitle": "Reiseziele erkunden",
+    "loading": "Kemet AI Karte wird geladen... 𓆣",
+    "calculating": "Wird berechnet...",
+    "calculateDistance": "📍 Entfernung von meinem Standort berechnen",
+    "distanceResult": "Entfernung von Ihnen: {distance} km",
+    "directions": "Wegbeschreibung & Navigation",
+    "viewPlan": "Plan anzeigen",
+    "dragToPan": "Zum Verschieben der Karte ziehen",
+    "popup": {
+      "era": "🏛️ Historische Ära:",
+      "category": "🏄 Tourismustyp:",
+      "location": "📍 Standort:"
+    },
+    "destinations": {
+      "pyramids": {
+        "name": "Pyramiden von Gizeh",
+        "city": "Gizeh",
+        "location": "Gizeh-Plateau, Gouvernement Gizeh",
+        "era": "4. Dynastie (Altes Reich)",
+        "category": "Archäologischer & Kultureller Tourismus",
+        "description": "Eines der sieben Weltwunder und Verkörperung altägyptischer Ingenieurskunst."
+      },
+      "luxor_karnak": {
+        "name": "Karnak-Tempel",
+        "city": "Luxor",
+        "location": "Ostufer, Stadt Luxor",
+        "era": "Neues Reich (1550 - 1077 v. Chr.)",
+        "category": "Archäologischer Tourismus",
+        "description": "Ein erstaunlicher pharaonischer Tempelkomplex, das größte Gotteshaus der antiken Welt."
+      },
+      "abu_simbel": {
+        "name": "Abu-Simbel-Tempel",
+        "city": "Assuan",
+        "location": "Südlich von Assuan nahe der sudanesischen Grenze",
+        "era": "Ära von Ramses II. (Neues Reich)",
+        "category": "Globaler Tourismus",
+        "description": "Zwei architektonische Meisterwerke von König Ramses II. und Königin Nefertari, in den Fels gehauen."
+      },
+      "siwa": {
+        "name": "Siwa-Oase & Salzseen",
+        "city": "Marsa Matrouh",
+        "location": "Westliche Wüste, nahe der libyschen Grenze",
+        "era": "Spätzeit / Griechisch-Römische Ära",
+        "category": "Öko- & Medizintourismus",
+        "description": "Eine magische Oase mit natürlichen Quellwasser und therapeutischen kristallinen Salzseen."
+      },
+      "dahab_bluehole": {
+        "name": "Blue Hole",
+        "city": "Dahab",
+        "location": "Rotmeer-Küste, Süd-Sinai",
+        "era": "Moderne Ära (Naturschutzgebiet)",
+        "category": "Strand- & Meerestourismus",
+        "description": "Eines der weltberühmtesten Tauchgebiete mit atemberaubenden Korallenriffen und Tiefen."
+      },
+      "philae": {
+        "name": "Philae-Tempel",
+        "city": "Assuan",
+        "location": "Agilkia-Insel, Nassersee",
+        "era": "Ptolemäische & Römische Ära",
+        "category": "Niltourismus & Archäologie",
+        "description": "Die bezaubernde Kultinsel der Göttin Isis inmitten des Nils."
+      },
+      "nmec": {
+        "name": "Nationalmuseum der ägyptischen Zivilisation",
+        "city": "Kairo",
+        "location": "Fustat, Altes Kairo",
+        "era": "Mehrere (von der Antike bis zur Moderne)",
+        "category": "Museen & Kultur",
+        "description": "Beherbergt königliche Mumien und exklusive Sammlungen zur ägyptischen Geschichte."
+      },
+      "khan_el_khalili": {
+        "name": "Chan el-Chalili & Al-Muizz",
+        "city": "Kairo",
+        "location": "Al-Muizz-Straße, Historisches Kairo",
+        "era": "Mamelukische & Fatimidische Ära",
+        "category": "Erbe & Islamischer Tourismus",
+        "description": "Das Herz des historischen islamischen Kairo, voller Handwerkskunst und traditioneller Cafés."
+      },
+      "ras_mohamed": {
+        "name": "Ras-Mohammed-Nationalpark",
+        "city": "Scharm El-Scheich",
+        "location": "Treffpunkt von Golf von Aqaba und Sues",
+        "era": "Globales Naturschutzgebiet",
+        "category": "Ökotourismus & Tauchen",
+        "description": "Ägyptens erster Nationalpark mit fantastischen Korallenriffen und Artenvielfalt."
+      },
+      "white_desert": {
+        "name": "Weiße Wüste",
+        "city": "Neues Tal",
+        "location": "Farafra-Oase, Westliche Wüste",
+        "era": "Geologische Formationen aus Jahrtausenden",
+        "category": "Abenteuer- & Safaritourismus",
+        "description": "Einzigartige weiße Kreidefelsenformationen, die das Gefühl vermitteln, auf dem Mond zu sein."
+      },
+      "st_catherine": {
+        "name": "Katharinenkloster",
+        "city": "Süd-Sinai",
+        "location": "Stadt St. Katharina, unterhalb des Mosesbergs",
+        "era": "Byzantinisches Reich (6. Jh. n. Chr.)",
+        "category": "Religiöser & Historischer Tourismus",
+        "description": "Das älteste durchgehend bewohnte Kloster der Welt mit seltenen Manuskripten und Ikonen."
+      },
+      "vally_of_kings": {
+        "name": "Tal der Könige",
+        "city": "Luxor",
+        "location": "Ostufer, Luxor",
+        "era": "Neues Reich (18.-20. Dynastie)",
+        "category": "Archäologischer Tourismus",
+        "description": "Gräber der pharaonischen Könige, darunter Tutanchamun und Hatschepsut."
+      },
+      "qaitbay": {
+        "name": "Qaitbay-Zitadelle",
+        "city": "Alexandria",
+        "location": "Gomrok-Viertel, ehemalige Pharos-Insel",
+        "era": "Mamelukische Ära (15. Jh.)",
+        "category": "Historischer & Küstentourismus",
+        "description": "Eine wehrhafte Zitadelle an der Mittelmeerküste am Standort des antiken Leuchtturms."
+      },
+      "alex_library": {
+        "name": "Bibliothek von Alexandria",
+        "city": "Alexandria",
+        "location": "Shatby, Corniche von Alexandria",
+        "era": "Moderne Ära (Wiederbelebung der ptolemäischen Ära)",
+        "category": "Wissen & Kultur",
+        "description": "Ein Leuchtturm moderner Kultur und Wissenschaft, gestaltet als Sonnenscheibe über dem Meer."
+      },
+      "giftun_island": {
+        "name": "Giftun-Insel (Naturschutzgebiet)",
+        "city": "Hurghada",
+        "location": "Vor der Küste von Hurghada",
+        "era": "Naturschutzgebiet",
+        "category": "Strand- & Meerestourismus",
+        "description": "Unberührte Inseln mit erstaunlichem weißen Sand und kristallklarem türkisfarbenem Wasser."
+      },
+      "dendera": {
+        "name": "Dendera-Tempel",
+        "city": "Qena",
+        "location": "Dendera, Westlicher Nil",
+        "era": "Griechisch-Römische Ära",
+        "category": "Archäologischer Tourismus",
+        "description": "Einer der am besten erhaltenen Tempel Ägyptens mit wunderschönen Details und astronomischen Farben."
+      },
+      "saqqara": {
+        "name": "Stufenpyramide von Djoser",
+        "city": "Gizeh",
+        "location": "Sakkara, Gouvernement Gizeh",
+        "era": "3. Dynastie (Altes Reich)",
+        "category": "Archäologischer Tourismus",
+        "description": "Das erste große Steingebäude der Geschichte und die Wiege des Pyramidenbaus."
+      },
+      "kom_ombo": {
+        "name": "Kom-Ombo-Tempel",
+        "city": "Assuan",
+        "location": "Kom-Ombo-Zentrum, Nilufer",
+        "era": "Ptolemäische Ära",
+        "category": "Niltourismus & Archäologie",
+        "description": "Ein einzigartiger doppelter Tempel am Nilufer, gewidmet den Göttern Sobek und Horus."
+      },
+      "wadi_el_hitan": {
+        "name": "Wadi El-Hitan (Walfisch-Tal)",
+        "city": "Fayoum",
+        "location": "Wadi-Rayan-Naturschutzgebiet, Fayoum",
+        "era": "Eozän-Ära (vor 40 Millionen Jahren)",
+        "category": "Öko- & Geologischer Tourismus",
+        "description": "Eine Welterbestätte mit seltenen versteinerten Fossilien prähistorischer Wale."
+      },
+      "marsa_alam": {
+        "name": "Hankorab-Strand (Meteorit)",
+        "city": "Marsa Alam",
+        "location": "Südlich von Marsa Alam, Wadi-El-Gemal-Naturschutzgebiet",
+        "era": "Moderne Ära (Natürlich)",
+        "category": "Strand- & Erholungstourismus",
+        "description": "Bezaubernde Strände und eine natürliche Lagune, die an Reinheit und Unterwasserwelt den Malediven gleicht."
+      }
+    }
+  },
+  "Offers": {
+    "title": "Exklusive Angebote & unschlagbare Deals",
+    "subtitle": "Entdecken Sie die besten Reisepakete und profitieren Sie von exklusiven Angeboten für Ihre nächste Reise."
+  }
+}
