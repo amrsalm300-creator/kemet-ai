@@ -1,8 +1,15 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { client } from '@/lib/sanity';
 import imageUrlBuilder from '@sanity/image-url';
 import AreaMap from '@/components/AreaMap'; // تم إضافة استدعاء خريطة جوجل
+import { createClient } from 'next-sanity';
+
+const client = createClient({
+  projectId: process.env.NEXT_PUBLIC_SANITY_PROJECT_ID || 'kqicvwbx',
+  dataset: process.env.NEXT_PUBLIC_SANITY_DATASET || 'production',
+  apiVersion: '2026-07-25',
+  useCdn: false,
+});
 
 interface PageProps {
   params: Promise<{
